@@ -2,4 +2,4 @@
 * [홈](README.md)
 * [CS]()
   * [DSA]()
-    * [Recursion](/cs/dsa/recursion.md)
+    * [Recursion](cs/dsa/recursion.md)

@@ -1,0 +1,23 @@
+# GitBook 관련
+_book/
+node_modules/
+*.log
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# IDE 관련
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# 임시 파일
+*.swp
+*.swo
+*~
+
+# 빌드 출력
+build/
+dist/

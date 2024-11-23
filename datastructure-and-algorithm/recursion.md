@@ -1,11 +1,16 @@
-# Recursion 
+---
+description: 재귀연습
+---
+
+# Recursion
 
 ## 재귀 기본 함수
 
 ### 1단계: 가장 단순한 재귀 함수 만들기
 
 ```javascript
-// 목표: 1부터 N까지의 합 구하기
+// Some code// 목표: 1부터 N까지의 합 구하기
+
 function sum(n) {
   // 1. 종료 조건 (Base case)
   if (n === 1) return 1;
@@ -25,7 +30,8 @@ function sum(n) {
 ### 2단계: 최소값/최대값을 찾는 재귀 함수
 
 ```javascript
-// 목표: 배열에서 최소값 찾기
+
+// Some code// 목표: 배열에서 최소값 찾기
 function findMin(arr, index) {
   // 1. 종료 조건
   if (index === arr.length - 1) {
@@ -44,7 +50,10 @@ function findMin(arr, index) {
 // → Math.min(3, 1)
 // → 1
 
+
+
 findMinBetter([3,1,4], 0) 실행과정:
+  
   
 1단계: index = 0 (값: 3)
 └─ findMinBetter([3,1,4], 1) 호출
@@ -54,4 +63,8 @@ findMinBetter([3,1,4], 0) 실행과정:
        └─ 마지막 원소니까 4 반환
    ← 1과 4 비교: 1 반환
 ← 3과 1 비교: 1 반환
+
+
+
 ```
+

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # try...catch 와 비동기 error 동작원리
 
 

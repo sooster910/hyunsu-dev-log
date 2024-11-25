@@ -38,9 +38,9 @@ export function main(){
 // Some code
 ```
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Webstorm IDE</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Webstorm IDE</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>chrome browser</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>chrome browser</p></figcaption></figure>
 
 
 
@@ -64,7 +64,7 @@ export function main(){
     }
 ```
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 주목 해서 봐야 할 부분은 PromiseState: "rejected" 와 에러를 내뿜어 주긴 하기만 Uncaught Error 라는 부분을 인지하고 이런 상황이 왜 일어났는지를 이해해야 한다.
 

@@ -1,12 +1,4 @@
-# 해외 사용자에게 일관성 있는 날짜 표기 적용기
-
-
-
-### 사용자가 날짜 선택 시 :&#x20;
-
-
-
-
+# 해외 사용자에게 일관성 있는 날짜 표기
 
 ## Luxon라이브러리 선택 이유 : <혼란스러운 Date 문제점 정리>
 
@@ -90,7 +82,7 @@ console.log(date.toISOString()) // 올바른 12월 21일
 #### 🔥 **예시 코드**
 
 ```javascript
-codeconsole.log(new Date('2024-12-21')) // Node.js에서는 UTC로 해석
+console.log(new Date('2024-12-21')) // Node.js에서는 UTC로 해석
 console.log(new Date('2024/12/21')) // Node.js에서는 로컬 타임존으로 해석
 ```
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Yarn 과의 전쟁 : Storybook 오픈 소스 기여중입니다.
 
 Storybook은 기본적으로 yarn 패키지 매니저 4.0 이상의 버전을 사용한다.

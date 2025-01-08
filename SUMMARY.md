@@ -23,7 +23,7 @@
 * [Nextjs와 Elasticbeanstalk를 1년간 운영하면서 배운점](frontend/nextjs-elasticbeanstalk-1.md)
 * [useEffect](frontend/useeffect.md)
 * [2024 vite-ts eslint prettier 세팅](frontend/2024-vite-ts-eslint-prettier.md)
-* [해외 사용자에게 일관성 있는 날짜 표기 적용기](frontend/undefined-2.md)
+* [해외 사용자에게 일관성 있는 날짜 표기](frontend/undefined-2.md)
 * [Page 2](frontend/page-2.md)
 * [처음 Relay fragment 사용에서 props drilling 감소라는 막연한 생각](frontend/relay-fragment-props-drilling.md)
 * [Relay 철학에 따른 컴포넌트 설계 고민과 적용기](frontend/relay-2.md)

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Notification 서비스 확장 구조 기록
 
 ```typescript

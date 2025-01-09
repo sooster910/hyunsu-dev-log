@@ -31,6 +31,7 @@
 ## DataStructure\&Algorithm
 
 * [Recursion](datastructure-and-algorithm/recursion.md)
+* [구현 문제에서 본질  찾기 회고](datastructure-and-algorithm/undefined.md)
 
 ## 🌵 프로젝트 관련 짧은 기록들 <a href="#project_memo" id="project_memo"></a>
 

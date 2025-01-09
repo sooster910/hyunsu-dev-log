@@ -1,5 +1,6 @@
 ---
 description: 재귀연습
+hidden: true
 ---
 
 # Recursion

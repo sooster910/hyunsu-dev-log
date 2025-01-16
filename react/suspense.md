@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Suspense
 
 먼저 Suspense 가 리액트에서 어떻게 지원해 왔는지 정리 해보자.

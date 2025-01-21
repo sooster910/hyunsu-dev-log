@@ -40,6 +40,7 @@
 ## 🦉 TypeScript
 
 * [Freshness](typescript/freshness.md)
+* [as const](typescript/as-const.md)
 
 ## React
 

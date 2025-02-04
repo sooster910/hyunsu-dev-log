@@ -1,10 +1,8 @@
 # 🦔 Introduction
 
-* 학창시절 부터 육상, 합기도 시합 출전, 체대 입학 이후 스키 대한스키지도자연맹(KISA) 레벨 2 준지도자 강사 및 수상 인명 구조원 자격증 취득 및 활동 &#x20;
 
-<div align="left"><figure><img src=".gitbook/assets/메달.jpg" alt="" width="188"><figcaption><p>학창시절 합기도 메달들</p></figcaption></figure></div>
 
-* 친구의 권유로 Queens College의 Hackattack 해커톤에 참가하며 프로덕트를 만드는 과정을 경험. 이를 계기로 개발자로서 도전
+* Queens College Hackattack 해커톤 참가
 
 {% embed url="https://devpost.com/software/werise" %}
 
